@@ -5,12 +5,12 @@ For additional guidance/help, email justinhan1997@gmail.com or your current Engi
 
 ## Local Development Setup
 
-1. You will need to install the Flutter SDK, which can be done by following instructions in the [installation docs](https://flutter.dev/docs/get-started/install).
-2. You will also need an Android/iOS emulator installed on your computer in order to run the app locally.<br>
-   Refer to installation instructions for either [Android Studio](https://developer.android.com/studio/install) or
+1. You will need to install the Flutter SDK, which can be done by following instructions in the 
+   [installation docs](https://flutter.dev/docs/get-started/install).
+2. You will also need an Android/iOS emulator installed on your computer in order to run the app locally. Refer to 
+   installation instructions for either [Android Studio](https://developer.android.com/studio/install) or 
    [XCode](https://andybargh.com/how-to-install-xcode/).
-3. Once your emulator is setup, within the root directory, run the command `flutter run`.<br>
-   This should make an app named "BruinPool" appear on your emulator. The app should automatically be initiated.
+3. Once your emulator is setup, within the root directory, do `flutter run`. This should start the app in your emulator.
 4. Once your app is running, open the codebase with an IDE (i.e. VS Code, Sublime Text), and then get coding! :)
 
 ## Flutter Dev Tips
