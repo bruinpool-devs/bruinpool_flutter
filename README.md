@@ -1,6 +1,6 @@
-# BruinPool Flutter
+# PoolUp Flutter
 
-This is the mobile frontend code repository for BruinPool: made with [Flutter](https://flutter.dev/).<br>
+This is the mobile frontend code repository for PoolUp: made with [Flutter](https://flutter.dev/).<br>
 For additional guidance/help, email justinhan1997@gmail.com or your current Engineering Manager.
 
 ## Local Development Setup
